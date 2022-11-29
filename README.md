@@ -4,4 +4,4 @@ Primeiro desafio de projeto sobre Git/GitHub 🦆
 
 ## Links importantes
 
-[MARKDOWN](markdownguide.org/basic-syntax/)
+[MARKDOWN](https://www.markdownguide.org/basic-syntax/)
