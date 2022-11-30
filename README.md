@@ -1,7 +1,9 @@
-# Repositório do primeiro desafio
+# Repositório para códigos de estudo
 
-Primeiro desafio de projeto sobre Git/GitHub 🦆
+Repositírio para colocar códigod desenvolvidos durante os cursos da DIO 🦆
 
 ## Links importantes
 
 [MARKDOWN](https://www.markdownguide.org/basic-syntax/)
+
+
